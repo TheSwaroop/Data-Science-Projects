@@ -1,1 +1,1 @@
-
+# This project analyzes COVID-19 data from the country_wise_latest.csv dataset to extract insights about the pandemic's impact across countries. The analysis includes calculating recovery rates and performing correlation analysis to identify relationships between key metrics like confirmed cases, deaths, and weekly growth rates.
